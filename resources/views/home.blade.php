@@ -9,7 +9,6 @@
     <body>
         <div class="container">
             <h1>Template Classe 89</h1>
-            <img src="{{ Vite::asset('resources/img/logo.webp') }}" alt="logo" srcset="">
         </div>
 
     </body>
